@@ -2,6 +2,7 @@
 
 ## Em Desenvolvimento
 
+
 **EduSyncScreen** é um aplicativo de compartilhamento de tela desenvolvido para facilitar a interação em tempo real entre professores e alunos em ambientes educacionais. Com recursos avançados de compartilhamento de tela e controles de acesso seguros, nossa aplicação proporciona uma experiência de aprendizado colaborativo e eficiente.
 
 ✨ **Funcionalidades Principais:**
@@ -10,7 +11,7 @@
 - Interface intuitiva para professores e alunos.
 
 🚀 **Como Começar:**
-1. Clone o repositório: `git clone https://github.com/seu-username/EduSyncScreen.git`
+1. Clone o repositório: `git clone https://github.com/GabrielGomesSantos/EduSyncScreen.git`
 2. Instale as dependências: `cd EduSyncScreen && npm install`
 3. Inicie o aplicativo: `npm start`
 
@@ -26,6 +27,7 @@
 ![Tela do Aluno](screenshots/aluno.png) *Tela do Aluno visualizando o conteúdo compartilhado*
 
 📜 **Licença:**
+
 Este projeto é licenciado sob a Licença MIT.
 
 ---
