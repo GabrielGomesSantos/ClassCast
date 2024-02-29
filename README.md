@@ -1,5 +1,7 @@
 # EduSyncScreen
 
+    ###Em Desenvolvimento
+
 **EduSyncScreen** é um aplicativo de compartilhamento de tela desenvolvido para facilitar a interação em tempo real entre professores e alunos em ambientes educacionais. Com recursos avançados de compartilhamento de tela e controles de acesso seguros, nossa aplicação proporciona uma experiência de aprendizado colaborativo e eficiente.
 
 ✨ **Funcionalidades Principais:**
