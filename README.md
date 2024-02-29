@@ -28,4 +28,4 @@ Este projeto é licenciado sob a Licença MIT.
 
 ---
 
-**Desenvolvido por [Seu Nome](https://seu-site.com)**
+**Desenvolvido por [Gabriel Gomes dos Santos](https://seu-site.com)**
